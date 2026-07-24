@@ -5,7 +5,7 @@ Este arquivo é o ponto de entrada da memória externa. Consulte-o antes de pesq
 ## Estado da base
 
 - Última atualização: 2026-07-24
-- Cursos cadastrados: 0
+- Cursos cadastrados: 2
 - Aulas processadas: 0
 - Conhecimentos consolidados: 0
 - Aplicações registradas: 0
@@ -14,7 +14,8 @@ Este arquivo é o ponto de entrada da memória externa. Consulte-o antes de pesq
 
 | Curso | Plataforma | Status | Progresso | Arquivo principal |
 |---|---|---|---|---|
-| _Nenhum curso cadastrado_ |  |  |  |  |
+| [Burguer Artesanal](cursos/burguer-artesanal/CURSO.md) | Hotmart Club | em mapeamento | índice inicial criado | `cursos/burguer-artesanal/CURSO.md` |
+| [Biocosmética Natural](cursos/biocosmetica-natural/CURSO.md) | Hotmart Club | em mapeamento | 3/98 conteúdos, 3% | `cursos/biocosmetica-natural/CURSO.md` |
 
 ## Conhecimentos por tema
 
